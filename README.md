@@ -27,12 +27,12 @@ ChatGPT：
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via ChatGPT
+- Imagem gerada via ChatGPT
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- Imagem utilizada em `assets`
+- ebook gerado em `output`
 
 ## 🛠️ Instruções de execução
 
